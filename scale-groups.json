@@ -61,6 +61,381 @@
           "C4": 90,
           "C5": 0
         }
+      },
+      {
+        "id": "c-aegean-20",
+        "name": "C Aegean 20",
+        "notation": "C3/ E3 (F#3) G3 (A3) B3 C4 (D4) E4 F#4 G4 (A4) B4 (C5) (D5) E5 F#5 (G5) (A5) (B5)"
+      },
+      {
+        "id": "c-ashakiran-17",
+        "name": "C Ashakiran (Major) 17",
+        "notation": "C3/ (D3) (E3) F3 G3 A3 B3 C4 D4 E4 (F4) G4 (A4) (B4) (C5) (D5) (E5)"
+      },
+      {
+        "id": "c-golden-gate-11",
+        "name": "C Golden Gate 11",
+        "notation": "C3/ E3 G3 B3 C4 D4 F#4 G4 B4 C5 D5"
+      },
+      {
+        "id": "c-ursa-minor-11",
+        "name": "C Ursa Minor 11",
+        "notation": "C3/ G3 G#3 C4 D4 D#4 F4 G4 G#4 C5 D5"
+      },
+      {
+        "id": "c-onoleo-16",
+        "name": "C Onoleo 16",
+        "notation": "C3/ (E3) (F3) G3 G#3 C4 (C#4) E4 F4 G4 G#4 (B4) C5 E5 F5 (G5)"
+      },
+      {
+        "id": "cs-aegean-18",
+        "name": "C# Aegean 18 - Kiril Osherov Signature",
+        "notation": "(B2) C#3/ (D#3) (F3) G#3 (Bb3) C4 C#4 (D#4) F4 G4 G#4 C5 C#5 F5 G5 G#5 C6"
+      },
+      {
+        "id": "cs-amara-16",
+        "name": "C# Amara (Celtic) 16",
+        "notation": "(A2) (B2) C#3/ (E3) (F#3) G#3 (A3) B3 C#4 D#4 E4 F#4 G#4 (A4) B4 C#5"
+      },
+      {
+        "id": "cs-annaziska-16",
+        "name": "C# Annaziska 16",
+        "notation": "(B2) C#3/ (E3) (F#3) G#3 A3 B3 C#4 D#4 E4 F#4 G#4 (A4) C#5 (D#5) (E5)"
+      },
+      {
+        "id": "cs-pygmy-17",
+        "name": "C# Pygmy 17",
+        "notation": "C#3/ (D3) (E3) F#3 G#3 A3 (B3) C#4 (D4) E4 F#4 G#4 A4 (B4) (C#5) (D5) (E5)"
+      },
+      {
+        "id": "cs-raga-desh-9",
+        "name": "C# Raga Desh 9",
+        "notation": "C#3/ F3 F#3 G#3 B3 C#4 F4 F#4 G#4"
+      },
+      {
+        "id": "d2-minor-15",
+        "name": "D2 Minor 15",
+        "notation": "D2/ (A2) (C3) D3 (F3) G3 A3 Bb3 (C4) D4 F4 G4 A4 (C5) (D5)"
+      },
+      {
+        "id": "d-aegean-20",
+        "name": "D Aegean 20",
+        "notation": "(B2) D3/ (E3) F#3 (G#3) A3 (B3) C#4 D4 (E4) F#4 G#4 A4 (B4) C#5 D5 (E5) F#5 G#5 A5"
+      },
+      {
+        "id": "d-amara-10",
+        "name": "D Amara (Celtic) 10",
+        "notation": "D3/ A3 C4 D4 E4 F4 G4 A4 C5 D5"
+      },
+      {
+        "id": "d-amara-19",
+        "name": "D Amara (Celtic) 19 - Gabriel Balasa Signature",
+        "notation": "(A2) (C3) D3/ (E3) (F3) (G3) A3 C4 D4 E4 F4 G4 A4 C5 D5 (E5) F5 G5 A5"
+      },
+      {
+        "id": "d-harmonic-lora-20",
+        "name": "D Harmonic Lora 20",
+        "notation": "(Bb2) D3/ (E3) (F3) (G3) A3 Bb3 C#4 D4 E4 F4 G4 A4 (C#5) D5 E5 F5 G5 (A5) (Bb5)"
+      },
+      {
+        "id": "d-harmonic-lora-two-20",
+        "name": "D Harmonic Lora 20 - Marcel Hutter Signature",
+        "notation": "(Bb2) D3/ (E3) (F3) (G3) A3 Bb3 (C4) C#4 D4 E4 F4 G4 A4 (C#5) D5 E5 F5 G5 (A5)"
+      },
+      {
+        "id": "d-harmonic-minor-20",
+        "name": "D Harmonic Minor 20",
+        "notation": "D3/ (E3) (F3) (G3) A3 Bb3 C#4 D4 E4 F4 G4 A4 C#5 D5 E5 (F5) (G5) (A5) (Bb5) (C#6)"
+      },
+      {
+        "id": "d-hijaz-20",
+        "name": "D Hijaz 20",
+        "notation": "(A2) (C3) D3/ (F#3) (G3) A3 C4 D4 D#4 F#4 G4 A4 C5 D5 (D#5) F#5 G5 A5 (Bb5) (C6)"
+      },
+      {
+        "id": "d-kurd-10",
+        "name": "D Kurd 10",
+        "notation": "D3/ A3 Bb3 C4 D4 E4 F4 G4 A4 C5"
+      },
+      {
+        "id": "d-kurd-12",
+        "name": "D Kurd 12",
+        "notation": "D3/ A3 Bb3 C4 D4 E4 F4 G4 A4 C5 D5 E5"
+      },
+      {
+        "id": "d-kurd-14",
+        "name": "D Kurd 14",
+        "notation": "D3/ (F3) (G3) A3 Bb3 C4 D4 E4 F4 G4 A4 C5 D5 E5"
+      },
+      {
+        "id": "d-kurd-17",
+        "name": "D Kurd 17",
+        "notation": "(Bb2) (C3) D3/ (F3) (G3) A3 Bb3 C4 D4 E4 F4 G4 A4 C5 D5 E5 (F5)"
+      },
+      {
+        "id": "d-kurd-18",
+        "name": "D Kurd 18 - Adam Maalouf Signature",
+        "notation": "(Bb2) (C3) D3/ (E3) (F3) (G3) A3 Bb3 C4 D4 E4 F4 G4 A4 C5 D5 E5 (F5)"
+      },
+      {
+        "id": "d-kurd-20",
+        "name": "D Kurd 20",
+        "notation": "D3/ (E3) (F3) (G3) A3 Bb3 C4 D4 E4 F4 G4 A4 C5 D5 E5 (F5) (G5) (A5) (Bb5) (C6)"
+      },
+      {
+        "id": "d-major-17",
+        "name": "D Major 17",
+        "notation": "D3/ (E3) (F#3) G3 A3 B3 C#4 D4 E4 F#4 (G4) A4 B4 (C#5) (D5) (E5) (G5)"
+      },
+      {
+        "id": "d-mystic-9",
+        "name": "D Mystic Low 9",
+        "notation": "D3/ F3 A3 Bb3 D4 E4 F4 A4 C5"
+      },
+      {
+        "id": "d-mystic-10",
+        "name": "D Mystic 10",
+        "notation": "D3/ A3 Bb3 D4 E4 F4 G4 A4 C5 D5"
+      },
+      {
+        "id": "d-mystic-15",
+        "name": "D Mystic 15 - Lucas Martins Signature",
+        "notation": "D3/ (E3) (F3) (G3) A3 Bb3 (B3) (C4) D4 E4 F4 G4 A4 C5 (C#5)"
+      },
+      {
+        "id": "d-mystic-20",
+        "name": "D Mystic 20 - Konstantin Rossler Signature",
+        "notation": "(Bb2) D3/ (E3) (F3) (G3) A3 Bb3 D4 E4 F4 (G4) A4 C5 D5 E5 F5 (G5) A5 (Bb5) C6"
+      },
+      {
+        "id": "d-mystic-21",
+        "name": "D Mystic 21 - Miguel Pezzuti Signature",
+        "notation": "(A2) D3/ (F#3) A3 Bb3 (C4) (C#4) D4 E4 F4 (F#4) G4 (G#4) A4 (B4) C5 (C#5) D5 E5 F5 G5"
+      },
+      {
+        "id": "e2-minor-15",
+        "name": "E2 Minor 15",
+        "notation": "E2/ (B2) (C3) (D3) E3 (F#3) G3 B3 C4 E4 F#4 G4 B4 (C5) (E5)"
+      },
+      {
+        "id": "e2-pygmy-15",
+        "name": "E2 Pygmy 15",
+        "notation": "E2/ (B2) (C3) (D3) (E3) (F#3) G3 B3 D4 E4 F#4 G4 B4 D5 E5"
+      },
+      {
+        "id": "e-equinox-11",
+        "name": "E Equinox 11",
+        "notation": "E3/ G3 B3 C4 D4 E4 F#4 G4 B4 C5 D5"
+      },
+      {
+        "id": "e-kurd-10",
+        "name": "E Kurd 10",
+        "notation": "E3/ B3 C4 D4 E4 F#4 G4 A4 B4 D5"
+      },
+      {
+        "id": "e-kurd-21",
+        "name": "E Kurd 21",
+        "notation": "(B2) (C3) (D3) E3/ (F#3) (G3) (A3) B3 C4 D4 E4 F#4 G4 A4 B4 C5 D5 E5 F#5 G5 A5"
+      },
+      {
+        "id": "e-kurd-22",
+        "name": "E Kurd 22",
+        "notation": "(C3) (D3) E3/ (F#3) (G3) (A3) B3 C4 D4 E4 F#4 G4 A4 B4 C5 D5 E5 F#5 G5 A5 (B5) (C6)"
+      },
+      {
+        "id": "e-la-sirena-20",
+        "name": "E La Sirena 20",
+        "notation": "(B2) (C#3) (D3) E3/ (F#3) G3 B3 C#4 D4 E4 F#4 G4 B4 C#5 D5 E5 F#5 (G5) (B5) (C#6)"
+      },
+      {
+        "id": "e-major-19",
+        "name": "E Major / C# Minor 19 - Fourpey Signature",
+        "notation": "(B2) (C#3) E3/ (F#3) G#3 A3 (Bb3) B3 (C4) C#4 D#4 E4 F#4 G#4 (A4) B4 (C#5) D#5 E5"
+      },
+      {
+        "id": "e-phrygian-21",
+        "name": "E Phrygian 21",
+        "notation": "(C3) (D3) E3/ (F3) (G3) A3 B3 C4 D4 E4 F4 G4 A4 B4 C5 D5 E5 (F5) (G5) (A5) (B5)"
+      },
+      {
+        "id": "e-romanian-hijaz-20",
+        "name": "E Romanian Hijaz 20",
+        "notation": "(B2) (C3) E3/ (F#3) (G3) A3 B3 C4 D#4 E4 F#4 G4 A4 B4 C5 D#5 E5 (G5) (A5) (C6)"
+      },
+      {
+        "id": "e-sabye-17",
+        "name": "E Sabye (Major) 17",
+        "notation": "(C#3) (D#3) E3/ (F#3) (G#3) A3 B3 C#4 D#4 E4 F#4 G#4 (A4) B4 C#5 D#5 E5"
+      },
+      {
+        "id": "f2-pygmy-15",
+        "name": "F2 Low Pygmy 15 - Leandro Nossa Signature",
+        "notation": "F2/ (Bb2) (C3) (D#3) F3 G3 G#3 (Bb3) C4 (C#4) D#4 F4 G4 G#4 (C5)"
+      },
+      {
+        "id": "f2-pygmy-16",
+        "name": "F2 Low Pygmy 16",
+        "notation": "F2/ (C3) (D#3) F3 G3 G#3 C4 D#4 F4 G4 G#4 (C5) (C#5) (D#5) (F5) (G5)"
+      },
+      {
+        "id": "f2-pygmy-19",
+        "name": "F2 Low Pygmy 19 - Pedro Thomas Signature",
+        "notation": "F2/ (C#3) (D#3) (F3) G3 G#3 (Bb3) C4 D#4 F4 G4 G#4 C5 (C#5) D#5 (F5) (G5) (G#5) (Bb5)"
+      },
+      {
+        "id": "f2-voyager-16",
+        "name": "F2 Voyager 16",
+        "notation": "F2/ (C3) (C#3) (F3) G3 G#3 C4 (C#4) D#4 F4 G4 G#4 C5 (D#5) (F5) (G5)"
+      },
+      {
+        "id": "f-integral-20",
+        "name": "F Integral 20",
+        "notation": "(Bb2) (C#3) (D#3) F3/ (G#3) (Bb3) C4 C#4 D#4 F4 G4 G#4 C5 C#5 D#5 F5 G5 G#5 Bb5 C6"
+      },
+      {
+        "id": "f-pygmy-19",
+        "name": "F Low Pygmy 19",
+        "notation": "(C#3) (D#3) F3/ G3 G#3 (Bb3) C4 (C#4) D#4 F4 G4 G#4 C5 D#5 F5 G5 (G#5) (Bb5) (C6)"
+      },
+      {
+        "id": "fs2-nordlys-15",
+        "name": "F#2 Nordlys 15",
+        "notation": "F#2/ (Bb2) (C#3) (F3) F#3 G#3 Bb3 C4 C#4 F4 G#4 C5 (C#5) (F5) (G#5)"
+      },
+      {
+        "id": "fs-hokkaido-10",
+        "name": "F# Hokkaido 10",
+        "notation": "F#3/ B3 C#4 D4 E4 F#4 G4 B4 C#5 D5"
+      },
+      {
+        "id": "fs-kurd-23",
+        "name": "F# Kurd 23",
+        "notation": "(C#3) (D3) (E3) F#3/ (G#3) (A3) (B3) C#4 D4 E4 F#4 G#4 A4 B4 C#5 D5 E5 F#5 G#5 A5 B5 C#6 D6"
+      },
+      {
+        "id": "fs-low-pygmy-21",
+        "name": "F# Low Pygmy 21",
+        "notation": "(D3) (E3) F#3/ G#3 A3 (B3) C#4 (D4) E4 F#4 G#4 A4 (B4) C#5 (D5) E5 F#5 G#5 (A5) (B5) (C#6)"
+      },
+      {
+        "id": "fs-low-pygmy-two-21",
+        "name": "F# Low Pygmy 21 (B2)",
+        "notation": "(B2) (D3) (E3) F#3/ G#3 A3 (B3) C#4 (D4) E4 F#4 G#4 A4 (B4) C#5 (D5) E5 F#5 G#5 A5 B5"
+      },
+      {
+        "id": "fs-romanian-hijaz-20",
+        "name": "F# Romanian Hijaz 20",
+        "notation": "(B2) (C#3) F#3/ (G#3) (A3) B3 C#4 D4 F4 F#4 G#4 A4 B4 C#5 D5 F5 F#5 (G#5) (A5) (B5)"
+      },
+      {
+        "id": "g2-hijaz-18",
+        "name": "G2 Hijaz 18",
+        "notation": "G2/ (D3) (F3) G3 G#3 B3 C4 D4 D#4 F4 G4 (G#4) (B4) (C5) (D5) (D#5) (F5) (G5)"
+      },
+      {
+        "id": "g2-minor-15",
+        "name": "G2 Minor 15",
+        "notation": "G2/ (Bb2) (D3) (D#3) G3 A3 Bb3 C4 D4 D#4 F4 G4 (A4) (C5) (D5)"
+      },
+      {
+        "id": "g2-minor-16",
+        "name": "G2 Minor 16 - Konstantin Rossler Signature",
+        "notation": "G2/ (Bb2) (D3) (D#3) (F3) G3 A3 Bb3 C4 D4 D#4 F4 G4 (A4) (C5) (D5)"
+      },
+      {
+        "id": "g2-minor-17",
+        "name": "G2 Minor 17",
+        "notation": "G2/ (D3) (D#3) G3 A3 Bb3 C4 D4 D#4 F4 G4 (A4) (C5) (D5) (D#5) (F5) (G5)"
+      },
+      {
+        "id": "g-hijaz-22",
+        "name": "G Hijaz / C Harmonic Minor 22",
+        "notation": "(C3) (D3) (D#3) (F3) G3/ (G#3) (B3) C4 D4 D#4 F4 G4 G#4 B4 C5 D5 D#5 F5 G5 G#5 B5 C6"
+      },
+      {
+        "id": "g-major-20",
+        "name": "G Major 20 - Konstantin Rossler Signature",
+        "notation": "(C3) (D3) (E3) G3/ (A3) B3 C4 D4 E4 F#4 G4 A4 B4 (C5) D5 (E5) F#5 G5 A5 B5"
+      },
+      {
+        "id": "g-oxalis-19",
+        "name": "G Oxalis 19",
+        "notation": "(B2) (C3) (D3) (E3) (F#3) G3/ (A3) B3 C4 D4 E4 G4 B4 C5 D5 E5 G5 B5 C6"
+      },
+      {
+        "id": "a2-aegean-15",
+        "name": "A2 Aegean 15",
+        "notation": "A2/ (B2) C#3 (D#3) E3 G#3 A3 C#4 D#4 E4 G#4 (A4) (C#5) (D#5) (E5)"
+      },
+      {
+        "id": "a2-dorian-15",
+        "name": "A2 Dorian 15",
+        "notation": "A2/ (C3) (D3) E3 (F#3) G3 B3 C4 (D4) E4 F#4 G4 (A4) B4 (C5)"
+      },
+      {
+        "id": "a2-hijaz-16",
+        "name": "A2 Hijaz 16",
+        "notation": "A2/ (D3) E3 (F3) G3 A3 Bb3 C#4 D4 E4 (F4) G4 (A4) (C#5) (D5) (E5)"
+      },
+      {
+        "id": "a2-amara-17",
+        "name": "A2 Amara (Celtic) 17",
+        "notation": "A2/ (C3) (D3) E3 (F3) G3 A3 B3 C4 D4 E4 (F4) G4 (A4) (B4) (C5) (D5)"
+      },
+      {
+        "id": "a2-harmonic-minor-17",
+        "name": "A2 Harmonic Minor 17",
+        "notation": "A2/ (B2) (D3) E3 (F3) G#3 A3 B3 C4 D4 E4 (F4) G#4 (A4) (B4) (C5) (D5)"
+      },
+      {
+        "id": "a2-pygmy-17",
+        "name": "A2 Low Pygmy 17",
+        "notation": "A2/ (C3) (D3) E3 (F3) (G3) A3 B3 C4 E4 G4 A4 B4 (C5) (E5) (G5) (A5)"
+      },
+      {
+        "id": "a-minor-25",
+        "name": "A Minor 25",
+        "notation": "(A2) (C3) (D3) (E3) (F3) (G3) A3/ B3 C4 D4 E4 F4 G4 A4 B4 C5 D5 E5 F5 G5 A5 B5 C6 D6 E6"
+      },
+      {
+        "id": "a-major-23",
+        "name": "A Major 23 - Marcel Hutter Signature",
+        "notation": "(D3) (E3) (F#3) A3/ (B3) (C#4) D4 E4 (F4) F#4 G#4 A4 B4 (C5) C#5 D5 E5 F#5 G#5 A5 B5 C#6 D6"
+      },
+      {
+        "id": "b2-amara-9",
+        "name": "B2 Amara (Celtic) 9",
+        "notation": "B2/ F#3 A3 B3 C#4 D4 E4 F#4 A4"
+      },
+      {
+        "id": "b2-amara-17",
+        "name": "B2 Amara 17",
+        "notation": "B2/ (C#3) (D3) (E3) F#3 (G3) A3 B3 C#4 D4 E4 F#4 A4 (B4) (C#5) (D5) (E5)"
+      },
+      {
+        "id": "b2-dark-aegean-10",
+        "name": "B2 Dark Aegean 10",
+        "notation": "B2/ E3 G3 B3 C4 E4 F#4 G4 B4 E5"
+      },
+      {
+        "id": "b2-deep-elysian-10",
+        "name": "B2 Deep Elysian 10",
+        "notation": "B2/ F#3 G#3 B3 C#4 D#4 E4 F#4 B4 C#5"
+      },
+      {
+        "id": "b2-onoleo-9",
+        "name": "B2 Onoleo 9",
+        "notation": "B2/ F#3 G3 B3 D#4 E4 F#4 G4 B4"
+      },
+      {
+        "id": "b2-ursa-minor-9",
+        "name": "B2 Ursa Minor 9",
+        "notation": "B2/ F#3 G3 B3 C#4 D4 E4 F#4 G4"
+      },
+      {
+        "id": "b-mystic-18",
+        "name": "B Mystic 18 - Iago Paiva Signature",
+        "notation": "(B2) (D3) (F#3) (A3) B3/ (C#4) D4 F#4 G4 (G#4) B4 C#5 D5 F#5 G5 B5 C#6 D6"
       }
     ]
   },

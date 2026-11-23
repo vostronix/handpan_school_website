@@ -1,0 +1,703 @@
+{
+  "artists": {
+    "leontovych": "Mykola Leontovych",
+    "beethoven": "Ludwig van Beethoven",
+    "handpan-school": "Handpan School",
+    "sam-maher": "Sam Maher",
+    "yiruma": "Yiruma"
+  },
+  "songs": [
+    {
+      "id": "carol-of-the-bells",
+      "title": "Carol of the Bells",
+      "artistId": "leontovych",
+      "scaleId": "d-kurd-9",
+      "level": "intermediate",
+      "bpm": 132,
+      "slotsPerBeat": 2,
+      "beatsPerBar": 3,
+      "slotCount": 40,
+      "sections": [
+        {
+          "name": "INTRO",
+          "lines": [
+            {"right": "- - 5 - - - - - 5 - - -", "left": "6! - - 6 4 - 6! - - 6 4 -"},
+            {"right": "- - 5 - - - - - 5 - - -", "left": "6! - - 6 4 - 6! - - 6 4 -"}
+          ]
+        },
+        {
+          "name": "MAIN THEME",
+          "lines": [
+            {"right": "D! - 5 - - - D! - 5 - - -", "left": "6! - - 6 4 - 6! - - 6 4 -"},
+            {"right": "D! - 5 - - - D! - 5 - - -", "left": "6! - - 6 4 - 6! - - 6 4 -"}
+          ]
+        },
+        {
+          "name": "HIGHER",
+          "lines": [
+            {"right": "D! - 7 - - - D! - 7 - - -", "left": "8! - - 8 6 - 8! - - 8 6 -"},
+            {"right": "D! - 7 - - - D! - 7 - - -", "left": "8! - - 8 6 - 8! - - 8 6 -"}
+          ]
+        },
+        {
+          "name": "DESCENT",
+          "lines": [
+            {"right": "- - - 7 - 5 D! - - 3 - 1", "left": "8!+4! 8 8 - 6 - 4! 4 4 - 2 -"},
+            {"right": "5!+1! - 5 3 - - 5!+1! - 5 3 - -", "left": "- 4 - - - - - 4 - - - -"}
+          ]
+        },
+        {
+          "name": "MAIN THEME - AGAIN",
+          "lines": [
+            {"right": "D! - 5 - - - D! - 5 - - -", "left": "6! - - 6 4 - 6! - - 6 4 -"}
+          ]
+        },
+        {
+          "name": "ENDING",
+          "lines": [
+            {"right": "D! - 5 - - - 1!+D! - - - - -", "left": "6! - - 6 4 - 6! - - - - -"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "first-steps",
+      "title": "First Steps",
+      "artistId": "handpan-school",
+      "scaleId": "d-kurd-9",
+      "level": "beginner",
+      "bpm": 80,
+      "slotsPerBeat": 1,
+      "beatsPerBar": 4,
+      "slotCount": 32,
+      "sections": [
+        {
+          "name": "DING",
+          "lines": [
+            {"right": "D! - D - D! - D -", "left": "- - - - - - - -"}
+          ]
+        },
+        {
+          "name": "UP",
+          "lines": [
+            {"right": "D! 1 - 3 - 5 - 7", "left": "- - 2 - 4 - 6 -"}
+          ]
+        },
+        {
+          "name": "DOWN",
+          "lines": [
+            {"right": "- 7 - 5 - 3 - 1", "left": "8! - 6 - 4 - 2 -"}
+          ]
+        },
+        {
+          "name": "DING AND TOP",
+          "lines": [
+            {"right": "D! - D - D! 5 D -", "left": "- 4 - 6 - - - 4"},
+            {"right": "D! - D - D! - 7 -", "left": "- 4 - 6 - 8 - 6"}
+          ]
+        },
+        {
+          "name": "ENDING",
+          "lines": [
+            {"right": "D! - 1 - D! - - -", "left": "4! - - - 4! - - -"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kurd-groove",
+      "title": "Kurd Groove",
+      "artistId": "handpan-school",
+      "scaleId": "d-kurd-9",
+      "level": "intermediate",
+      "bpm": 100,
+      "slotsPerBeat": 2,
+      "beatsPerBar": 4,
+      "slotCount": 48,
+      "sections": [
+        {
+          "name": "GROOVE",
+          "lines": [
+            {"right": "D! - - - D - 5 - D! - - - - - 7 -", "left": "- - 4 6 - - - 4 - - 4 6 8 - - 6"},
+            {"right": "D! - - - D - 5 - D! - 3 - 5 - - -", "left": "- - 4 6 - - - 4 - - - 4 - - - -"}
+          ]
+        },
+        {
+          "name": "CALL",
+          "lines": [
+            {"right": "- - 7 - 7! - - 5 - - 5 - 5 - - -", "left": "8! - - 6 - - 6 - 6! - - 4 - - - -"}
+          ]
+        },
+        {
+          "name": "RESPONSE",
+          "lines": [
+            {"right": "1! - - 3 - - 3 - 1!+D! - - - - - - -", "left": "- - 2 - 4! - - 2 - - - - - - - -"}
+          ]
+        },
+        {
+          "name": "GROOVE - AGAIN",
+          "lines": [
+            {"right": "D! - - - D - 5 - D! - - - - - 7 -", "left": "- - 4 6 - - - 4 - - 4 6 8 - - 6"}
+          ]
+        },
+        {
+          "name": "ENDING",
+          "lines": [
+            {"right": "D! - - - D - 5 - D! - - - - - - -", "left": "- - 4 6 - - - 4 4!+8! - - - - - - -"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ode-to-joy",
+      "title": "Ode to Joy",
+      "artistId": "beethoven",
+      "scaleId": "d-kurd-19",
+      "level": "beginner",
+      "bpm": 100,
+      "slotsPerBeat": 2,
+      "beatsPerBar": 4,
+      "slotCount": 48,
+      "sections": [
+        {
+          "name": "THEME",
+          "lines": [
+            {"right": "1! - 1 - - - 3 - 3! - - - 1 - - -", "left": "- - - - 2 - - - - - 2 - - - B4 -"},
+            {"right": "B3! - B3 - - - 1 - 1! - - - - - - -", "left": "- - - - B4 - - - - - - B4 B4 - - -"},
+            {"right": "1! - 1 - - - 3 - 3! - - - 1 - - -", "left": "- - - - 2 - - - - - 2 - - - B4 -"},
+            {"right": "B3! - B3 - - - 1 - - - - B3 B3 - - -", "left": "- - - - B4 - - - B4! - - - - - - -"}
+          ]
+        },
+        {
+          "name": "MIDDLE",
+          "lines": [
+            {"right": "- - - - 1 - B3 - - - 1 - 1 - B3 -", "left": "B4! - B4 - - - - - B4! - - 2 - - - -"},
+            {"right": "- - 1 - 1 - - - B3! - - - - - - -", "left": "B4! - - 2 - - B4 - - - B4 - B2 - - -"}
+          ]
+        },
+        {
+          "name": "THEME - AGAIN",
+          "lines": [
+            {"right": "1! - 1 - - - 3 - 3! - - - 1 - - -", "left": "- - - - 2 - - - - - 2 - - - B4 -"},
+            {"right": "B3! - B3 - - - 1 - - - - B3 B3!+3! - - -", "left": "- - - - B4 - - - B4! - - - - - - -"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "golden-hour",
+      "title": "Golden Hour",
+      "artistId": "handpan-school",
+      "scaleId": "c-golden-gate-9",
+      "level": "intermediate",
+      "bpm": 90,
+      "slotsPerBeat": 2,
+      "beatsPerBar": 4,
+      "slotCount": 40,
+      "sections": [
+        {
+          "name": "INTRO",
+          "lines": [
+            {"right": "D! - - 3 - - 3 - D! - - 3 5 - - -", "left": "- - 2 - 4 - - 2 - - 2 - - - - -"}
+          ]
+        },
+        {
+          "name": "THEME",
+          "lines": [
+            {"right": "- - 5 - 7 - - 5 - - 5 - - - - -", "left": "4! - - 6 - - 6 - 4! - - 6 8 - - -"},
+            {"right": "- - 5 - 7 - - 5 - - 3 - 1 - - -", "left": "4! - - 6 - - 6 - 4! - - 2 - - - -"}
+          ]
+        },
+        {
+          "name": "BRIDGE",
+          "lines": [
+            {"right": "- 7 - 5 - 5 - 3 D! - 1 - 3 - - -", "left": "8! - 6 - 6! - 4 - - - - 2 - - - -"}
+          ]
+        },
+        {
+          "name": "ENDING",
+          "lines": [
+            {"right": "D! - - 3 - - 7 - D!+7! - - - - - - -", "left": "4! - 2 - 4 - - 8 4! - - - - - - -"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deep-pygmy",
+      "title": "Deep Pygmy",
+      "artistId": "handpan-school",
+      "scaleId": "f2-low-pygmy-17",
+      "level": "advanced",
+      "bpm": 112,
+      "slotsPerBeat": 2,
+      "beatsPerBar": 4,
+      "slotCount": 40,
+      "sections": [
+        {
+          "name": "PULSE",
+          "lines": [
+            {"right": "D! - B1 - 1 3 - - D! - B1 - - 5 - -", "left": "- - - - - - 4 - - - - - 4 - 6 -"},
+            {"right": "D! - B1 - 1 3 - - D! - - - 3 - 1 -", "left": "- - - - - - 4 - - - B2 - - 4 - -"}
+          ]
+        },
+        {
+          "name": "RISE",
+          "lines": [
+            {"right": "- 5 - 7 - 7 - 5 B5! - - - B7 - - -", "left": "4! - 6 - 8! - 6 - - - B6 - - - B8 -"}
+          ]
+        },
+        {
+          "name": "FALL",
+          "lines": [
+            {"right": "- B7 - B5 - 7 - 5 - 3 1 B3 D! - - -", "left": "B8! - B6 - 8! - 6 - 4! - - - - - - -"}
+          ]
+        },
+        {
+          "name": "PULSE - AGAIN",
+          "lines": [
+            {"right": "D! - B1 - 1 3 - - D! - B1 - - 5 - -", "left": "- - - - - - 4 - - - - - 4 - 6 -"}
+          ]
+        },
+        {
+          "name": "ENDING",
+          "lines": [
+            {"right": "D! - B1 - 1 3 - - D! - - - - - - -", "left": "- - - - - - 4 - 4!+6! - - - - - - -"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "still-water",
+      "title": "Still Water",
+      "artistId": "handpan-school",
+      "scaleId": "e-amara-20",
+      "level": "intermediate",
+      "bpm": 84,
+      "slotsPerBeat": 2,
+      "beatsPerBar": 4,
+      "slotCount": 96,
+      "sections": [
+        {
+          "name": "INTRO",
+          "lines": [
+            {"right": "- 1 - 5 7 - 5 1 - 3 - 5 9 5 - 3", "left": "D! - 4 - - 4 - - B1! - B6 - - - B6 -"},
+            {"right": "- 1 - 5 - 5 - 1 - - 3 - - - 3 -", "left": "B4! - 2 - 8 - 2 - B2! 4 - 6 8 6 - 4"}
+          ]
+        },
+        {
+          "name": "THEME",
+          "lines": [
+            {"right": "7! - - 5 7! - 5 - 3 5 - 5 9! - 7 -", "left": "D! - 4 - - 6 - 4 B1! - B6 - - 8 - 6"},
+            {"right": "7! - - 5 - 7 - 5 - 3 - 3 - - 3 -", "left": "B4! - 2 - 8! - 6 - B2+6! - 4 - 4! - - 2"},
+            {"right": "1 - - 5 7! 9 - 7 9! - - 5 11 9 - 7", "left": "D! - 4 - - - 8 - B1! - B6 - - - 8 -"},
+            {"right": "- 3 - - - - - 5 9! - 7 - 5 - 3 -", "left": "B2! - 6 8! 10 8 6 - D! - - - - - - -"}
+          ]
+        },
+        {
+          "name": "BRIDGE",
+          "lines": [
+            {"right": "- 9 11 - 11! 9 - 9 - 7 - 11 - 7 5 -", "left": "B1! - - 12 - - B7 - B4! - 8 - 8! - - 2"},
+            {"right": "- - - - - - 9 - - 9 - 11 9! - 7 5", "left": "B2! 8 10 12 10! 8 - 6 D! - 10 - - 8 - -"}
+          ]
+        },
+        {
+          "name": "THEME - AGAIN",
+          "lines": [
+            {"right": "7! - - 5 7! - 5 - 3 5 - 5 9! - 7 -", "left": "D! - 4 - - 6 - 4 B1! - B6 - - 8 - 6"},
+            {"right": "7! - - 5 - 7 - 5 - 3 - 3 - - 3 -", "left": "B4! - 2 - 8! - 6 - B2+6! - 4 - 4! - - 2"},
+            {"right": "1 - - 5 7! 9 - 7 9! - - 5 11 9 - 7", "left": "D! - 4 - - - 8 - B1! - B6 - - - 8 -"},
+            {"right": "- 3 - - - - - 5 9! - 7 - 5 - 3 -", "left": "B2! - 6 8! 10 8 6 - D! - - - - - - -"}
+          ]
+        },
+        {
+          "name": "ENDING",
+          "lines": [
+            {"right": "7! - 5 - 3 - 1 - 9! - - - - - - -", "left": "D! - - - - - - - D! - - - - - - -"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-sky",
+      "title": "The Sky",
+      "artistId": "handpan-school",
+      "scaleId": "e-amara-20",
+      "level": "intermediate",
+      "bpm": 90,
+      "slotsPerBeat": 2,
+      "beatsPerBar": 4,
+      "slotCount": 48,
+      "sections": [
+        {
+          "name": "INTRO",
+          "lines": [
+            {"right": "- - 5 - 7 - - - - - 3 - - - - -", "left": "D! - - - - - D - B5! - - - 6 - - -"}
+          ]
+        },
+        {
+          "name": "THEME",
+          "lines": [
+            {"right": "- 3 - 5 7! - - - - 7 - 9! - - 5 -", "left": "D! - - - - D - - B1! - - - - D - -"},
+            {"right": "- 9 - 7 - 5 - - - 5 - - - 3 - -", "left": "B4! - - - 2 - B4 - B2! - - 4 - - 8! -"},
+            {"right": "3 5 - 7! - - 9 - - - 7 5 - - 3 -", "left": "D! - - - - D - - B1! - - - D - B6 -"},
+            {"right": "- 5 7 - - 9! - - - - 5 - 3 - - -", "left": "B4! - - 2 - - B4 - B2! - 4 - - 8 - -"}
+          ]
+        },
+        {
+          "name": "BRIDGE",
+          "lines": [
+            {"right": "- 3 - 9 - - 3 - 1! - - - 7 - - -", "left": "B5! - 6 - D - B5 - - - 4 - 8 - 10! -"},
+            {"right": "- 3 - 5 - 9! 11! - - 9 - 7 - - 5 -", "left": "B2! - 2 - - 8 - - D! - - - D - - -"}
+          ]
+        },
+        {
+          "name": "ENDING",
+          "lines": [
+            {"right": "- 5 - - 3 - - - - 9 - 7 - 5 - 3", "left": "B1! - - B6 - - D - D! - - - - - - D!"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "river",
+      "title": "River",
+      "artistId": "handpan-school",
+      "scaleId": "e-amara-20",
+      "level": "intermediate",
+      "bpm": 90,
+      "slotsPerBeat": 2,
+      "beatsPerBar": 4,
+      "slotCount": 64,
+      "sections": [
+        {
+          "name": "INTRO",
+          "lines": [
+            {"right": "- 3 - 5 - 7 - - - 3 - 5 - 7 - -", "left": "D! - - - D! - - - D! - - - B6! - - -"},
+            {"right": "- 5 - 6 - 2 - - - 2 - 4 - 6 - -", "left": "D! - - - B4! - - - D! - - - B2! - - -"}
+          ]
+        },
+        {
+          "name": "THEME",
+          "lines": [
+            {"right": "3! 5 7 9! 7 5 3 5 3 5 3 5 3 7 9! 7", "left": "D! - - - D! - - - D! - - - B6! - - -"},
+            {"right": "6! 5 4 2 4 6 5 4 2! 4 6 4 2 4 6 7!", "left": "D! - - - B4! - - - D! - - - B2! - - -"},
+            {"right": "9! 7 11 9 11 12! 10 9 5 3 5 7 3 5 7 9", "left": "D! - - - D! - - - D! - - - B6! - - -"},
+            {"right": "10 11 12! 10 11 9 8 6 6 8 10 12! 10 8 6 4", "left": "D! - - - B4! - - - D! - - - B2! - - -"}
+          ]
+        },
+        {
+          "name": "BRIDGE",
+          "lines": [
+            {"right": "1 2 3 4 5 6 7 9 10 11 12! 9 7 5 3 -", "left": "D! - - - D! - - - D! - - - B6! - - -"},
+            {"right": "9! 7 5 3 5 7 9 8 6 4 2 4 6 7 5 3", "left": "D! - - - B4! - - - D! - - - B2! - - -"}
+          ]
+        },
+        {
+          "name": "ENDING",
+          "lines": [
+            {"right": "9! - 7 - 5 - 3 - 3 - - - - - - -", "left": "D! - - - - - - - D! - - - - - - -"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "new-york",
+      "title": "New York",
+      "artistId": "sam-maher",
+      "scaleId": "cs-annaziska-9",
+      "level": "advanced",
+      "bpm": 95,
+      "slotsPerBeat": 4,
+      "beatsPerBar": 4,
+      "slotCount": 160,
+      "sections": [
+        {
+          "name": "GROOVE A - 1",
+          "lines": [
+            {"right": "2 4 - 2 4 - 2 - 2 4 - 2 4 - 2 -", "left": "- - 6 - - 6 - 6 - - 6 - - 6 - 6"},
+            {"right": "2 4 - 2 4 - 2 - 2 4 - 2 4 - 7 -", "left": "- - 6 - - 6 - 6 - - 6 - - 6 - 8"},
+            {"right": "3 5 - 3 5 - 3 - 3 5 - 3 5 - 3 -", "left": "- - 7 - - 7 - 7 - - 7 - - 7 - 7"},
+            {"right": "1 3 - 1 3 - 1 - 1 3 - 1 3 - 1 -", "left": "- - 5 - - 5 - 5 - - 5 - - 5 - 5"}
+          ]
+        },
+        {
+          "name": "A - 2",
+          "lines": [
+            {"right": "2 4 - 2 4 - 2 - 2 4 - 2 4 - 2 -", "left": "- - 6 - - 6 - 6 - - 6 - - 6 - 6"},
+            {"right": "2 4 - 2 4 - 7 - 2 4 - 2 4 - 2 -", "left": "- - 6 - - 6 - 8 - - 6 - - 6 - 6"},
+            {"right": "1 3 - 1 3 - 1 - 1 3 - 1 3 - 1 -", "left": "- - 5 - - 5 - 5 - - 5 - - 5 - 5"},
+            {"right": "3 5 - 3 5 - 3 - 3 5 - 3 5 - 7 -", "left": "- - 7 - - 7 - 7 - - 7 - - 8 - 6"}
+          ]
+        },
+        {
+          "name": "A - 3",
+          "lines": [
+            {"right": "2 4 - 2 4 - 2 - 2 4 - 2 4 - 7 -", "left": "- - 6 - - 6 - 6 - - 6 - - 6 - 8"},
+            {"right": "2 4 - 2 4 - 2 - 1 - 3 - 5 - 7 -", "left": "- - 6 - - 6 - 6 - 2 - 4 - 6 - -", "bpm": 76}
+          ]
+        },
+        {
+          "name": "GROOVE B - 1",
+          "lines": [
+            {"right": ". - . - T - 8 . - . - T - 7 -", "left": "8 - - 4 - - 4 - - 4 - 6 - 4 - -", "bpm": 123},
+            {"right": "8 - . - T . - 8 . - . - T - 7 -", "left": "4 - - 4 - - 4 - - 4 - 6 - 4 - -", "bpm": 123},
+            {"right": "6 - . - T . - 6 . - . - T - 7 -", "left": "2 - - 2 - - 4 - - 2 - 4 - 6 - 4"},
+            {"right": "6 - . - T . - 6 - - 1 - 3 - 5 -", "left": "2 - - 2 - - 4 - - 2 - 4 - - 4 -"}
+          ]
+        },
+        {
+          "name": "B - 2",
+          "lines": [
+            {"right": "8 - . - T . - 8 . - . - T - 7 -", "left": "4 - - 4 - - 4 - - 4 - 6 - 4 - -"},
+            {"right": "8 - . - T . - 8 . - . - T - 7 -", "left": "4 - - 4 - - 4 - - 4 - 6 - 4 - -"},
+            {"right": "6 - . - T . - 6 . - . - 6 - 7 -", "left": "2 - - 2 - - 4 - - 2 - 4 - 6 - 4"},
+            {"right": "6 - . - T . - 6 . - . - T . - .", "left": "2 - - 2 - - 4 - - 2 - 4 - - 4 -"},
+            {"right": "7 - . - T . - 5 . - . - T . - .", "left": "3 - - 3 - - 3 - - 3 - 5 - - 5 -"}
+          ]
+        },
+        {
+          "name": "B - 3",
+          "lines": [
+            {"right": "6 - . - T . - 6 . - . - T - 7 -", "left": "2 - - 2 - - 4 - - 2 - 4 - 6 - 4"},
+            {"right": "6 - . - T . - 6 . - . - T . - .", "left": "2 - - 2 - - 4 - - 2 - 4 - - 4 -"},
+            {"right": "7 - . - T . - 5 . - . - T . - .", "left": "3 - - 3 - - 3 - - 3 - 5 - - 5 -"},
+            {"right": "5 - . - T . - 5 . - . - T . - .", "left": "1 - - 1 - - 1 - - 1 - 4 - - 4 -"}
+          ]
+        },
+        {
+          "name": "B - 4",
+          "lines": [
+            {"right": "6 - . - T . - 6 . - . - 8 . - .", "left": "2 - - 2 - - 4 - - 2 - 4 - - 4 -"},
+            {"right": "6 - . - T . - 6 . - . - T - 3 -", "left": "2 - - 2 - - 4 - - 2 - 4 - 4 - 6"}
+          ]
+        },
+        {
+          "name": "GROOVE C - 1 (DING GROOVE)",
+          "lines": [
+            {"right": "S - D . C - - D . - D - C - 5 -", "left": "- 4 - - 1 - 1 - - 1 - D - 6 - 4"},
+            {"right": "D . - . C - - D . - S - C - 3 -", "left": "- - 1 - 1 - 1 - - 1 - D - D - 6"}
+          ]
+        },
+        {
+          "name": "C - 2",
+          "lines": [
+            {"right": "S - D . C - - D . - S - C . - .", "left": "- 4 - - 1 - 1 - - 1 - D - - D -"},
+            {"right": "D - . - C . - D . - D - C - 3 -", "left": "1 - - 1 - - 1 - - 1 - D - D - 8"}
+          ]
+        },
+        {
+          "name": "C - 3",
+          "lines": [
+            {"right": "S - D . C - - D . - S - C - 3 -", "left": "- 7 - - 3 - 3 - - 3 - 3 - 3 - 7"},
+            {"right": "S - D . C - - D . - S - C - 3 -", "left": "- 6 - - 2 - 2 - - 2 - D - D - 6"}
+          ]
+        },
+        {
+          "name": "C - 5",
+          "lines": [
+            {"right": "S - D . C - - D . - S - C - 5 -", "left": "- 4 - - 1 - 1 - - 1 - D - 6 - 4"},
+            {"right": "D . - . C - - D . - S - C . - -", "left": "- - 1 - 1 - 1 - - 1 - D - - D -"}
+          ]
+        },
+        {
+          "name": "C - 6",
+          "lines": [
+            {"right": "8 - D - C . - D . - S - C . - .", "left": "6 - - 6 - - 6 - - 6 - 4 - - 4 -"},
+            {"right": "7 - D - C . - D . - . - C - 5 -", "left": "3 - - 3 - - 3 - - 3 - D - 6 - 4"},
+            {"right": "D - . - C . - D . - S - C - 5 -", "left": "2 - - 2 - - 2 - - 2 - 4 - 6 - 4"},
+            {"right": "D . - . C - - D . - S - C - 3 -", "left": "- - 2 - 2 - 2 - - 2 - D - D - 6"}
+          ]
+        },
+        {
+          "name": "C - 7",
+          "lines": [
+            {"right": "S - D . C - - D . - S - C - 3 -", "left": "- 4 - - 1 - 1 - - 1 - D - D - 6"},
+            {"right": "S - D . C - - D . - S - C - 3 -", "left": "- 4 - - 1 - 1 - - 1 - D - D - 6"},
+            {"right": "S - D . C - - D . - S - C - 3 -", "left": "- 4 - - 1 - 1 - - 1 - D - D - 6"},
+            {"right": "S - D . C - - D . - S - C . - .", "left": "- 4 - - 1 - 1 - - 1 - D - - D -"}
+          ]
+        },
+        {
+          "name": "GROOVE D - 1",
+          "lines": [
+            {"right": "8 - . - 7 . - - 6 - . - 5 . - -", "left": "2 - - 2 - - 2 - 2 - - 2 - - 2 -"},
+            {"right": "4 - . - 3 . - - 4 - . - 5 . - -", "left": "2 - - 2 - - 2 - 2 - - 2 - - 2 -"},
+            {"right": "6 - . - 7 . - - 6 - . - 5 . - -", "left": "3 - - 3 - - 3 - 3 - - 3 - - 3 -"},
+            {"right": "4 - . - 5 . - - 6 - . - 7 . - -", "left": "1 - - 1 - - 1 - 1 - - 1 - - 1 -"}
+          ]
+        },
+        {
+          "name": "D - 2",
+          "lines": [
+            {"right": "8 - . - 7 . - - 6 - . - 5 . - -", "left": "2 - - 2 - - 2 - 2 - - 2 - - 2 -"},
+            {"right": "4 - . - 3 . - - 4 - . - 5 . - -", "left": "2 - - 2 - - 2 - 2 - - 2 - - 2 -"},
+            {"right": "6 - . - 7 . - - 6 - . - 5 . - -", "left": "3 - - 3 - - 3 - 3 - - 3 - - 3 -"},
+            {"right": "4 - . - 8 . - - 7 - . - 5 . - -", "left": "1 - - 1 - - 1 - 1 - - 1 - - 1 -"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "river-flows-in-you",
+      "title": "River Flows in You",
+      "artistId": "yiruma",
+      "scaleId": "e-amara-20",
+      "level": "advanced",
+      "bpm": 66,
+      "slotsPerBeat": 4,
+      "beatsPerBar": 4,
+      "slotCount": 80,
+      "sections": [
+        {
+          "name": "INTRO",
+          "lines": [
+            {"right": "5 - 4 - 5 - 4 - 5 - 2 - 5 - B6 -", "left": "D! - 1 - 3 - - - B1! - B4 - 2 - - -"},
+            {"right": "- - - - - - - - - - - - - - B4 1", "left": "B4! - 2 - 1 - - - B2! - B5 - 2 - - -"},
+            {"right": "5 - 4 - 5 - 4 - 5 - 2 - 5 - B6 -", "left": "D! - 1 - 3 - - - B1! - B4 - 2 - - -"},
+            {"right": "- - - - - - - - - - - - - - B4 1", "left": "B4! - 2 - 1 - - - B2! - B5 - 2 - - -"}
+          ]
+        },
+        {
+          "name": "VERSE",
+          "lines": [
+            {"right": "5 - 4 5 - B4 4 5 - B4 2 5 - B4 B6 B4", "left": "D! - 1 - 3 - - - B1! - B4 - 2 - - -"},
+            {"right": "1 - B6 2 - - 1 - B5 - - - B3 - B4 -", "left": "B4! - 2 - 1 - - - B2! - B5 - 2 - - -"},
+            {"right": "B4 - B5 - - - B4 B5 1 - - - - - 1 B6", "left": "D! - 1 - 3 - - - B1! - B4 - 2 - - -"},
+            {"right": "2 - - - - B6 - 1 B5 - - - B3 - B4 1", "left": "B4! - 2 - 1 - - - B2! - B5 - 2 - - -"},
+            {"right": "5 - 4 5 - B4 4 5 - B4 2 5 - B4 B6 B4", "left": "D! - 1 - 3 - - - B1! - B4 - 2 - - -"},
+            {"right": "1 - B6 - 2 - 7 - 6 - 2 - 6 - 5 4", "left": "B4! - 2 - 1 - - - B2! - B5 - 2 - - -"},
+            {"right": "5 - - - - - B4 B5 1 - - - B4 - 1 B6", "left": "D! - 1 - 3 - - - B1! - B4 - 2 - - -"},
+            {"right": "2 - - - 1 B6 - 1 B5 - - - 5 6 5 4", "left": "B4! - 2 - - - - - B2! - B5 - 2 - - -"}
+          ]
+        },
+        {
+          "name": "THEME",
+          "lines": [
+            {"right": "5 4 5 B4 2 B4 5 6 5 4 5 B4 2 B4 5 6", "left": "D! - 1 - 3 - - - B1! - B4 - - - - -"},
+            {"right": "5 4 6 7 B7 8 7 5 4 - B5 - - 6 - 4", "left": "B4! - 2 - 1 - - - B2! - - - 2 - - -"},
+            {"right": "5 4 5 B4 2 B4 5 6 5 4 5 B4 2 B4 5 6", "left": "D! - 1 - 3 - - - B1! - B4 - - - - -"},
+            {"right": "5 4 6 7 B7 8 7 5 4 - B5 - - 6 - 4", "left": "B4! - 2 - 1 - - - B2! - - - 2 - - -"},
+            {"right": "5 B4 2 B4 - 6 5 - 5 B4 2 B4 - 6 - 4", "left": "D! - 1 - 3 - - - B1! - B4 - 2 - - -"},
+            {"right": "5 6 - 7 B7 8 - 7 6 5 4 B5 - - 6 4", "left": "B4! - 2 - 1 - - - B2! - B5 - 2 - - -"},
+            {"right": "5 B4 2 B4 - 6 - 5 - B4 - 2 B4 5 - 6", "left": "D! - 1 - 3 - - - B1! - B4 - 2 - - -"},
+            {"right": "5 - 5 6 7 B7 8 7 6 5 4 - B5 - B4 1", "left": "B4! - 2 - 1 - - - B2! - B5 - 2 - - -"}
+          ]
+        },
+        {
+          "name": "VERSE 2",
+          "lines": [
+            {"right": "5 - 4 5 - B4 4 5 - B4 2 5 - B4 B6 B4", "left": "D! - 1 - 3 - - - B1! - B4 - 2 - - -"},
+            {"right": "1 - B6 2 - - 1 - B5 - - - B3 - B4 -", "left": "B4! - 2 - 1 - - - B2! - B5 - 2 - - -"},
+            {"right": "B4 - B5 - - - B4 B5 1 - - - - - 1 B6", "left": "D! - 1 - 3 - - - B1! - B4 - 2 - - -"},
+            {"right": "2 - - - - B6 - 1 B5 - - - B3 - B4 1", "left": "B4! - 2 - 1 - - - B2! - B5 - 2 - - -"},
+            {"right": "5 - 4 5 - B4 4 5 - B4 2 5 - B4 B6 B4", "left": "D! - 1 - 3 - - - B1! - B4 - 2 - - -"},
+            {"right": "1 - B6 - 2 - 7 - 6 - 2 - 6 - 5 4", "left": "B4! - 2 - 1 - - - B2! - B5 - 2 - - -"},
+            {"right": "5 - - - - - B4 B5 1 - - - B4 - 1 B6", "left": "D! - 1 - 3 - - - B1! - B4 - 2 - - -"},
+            {"right": "2 - - - 1 B6 - 1 B5 - - - 5 6 5 4", "left": "B4! - 2 - - - - - B2! - B5 - 2 - - -"}
+          ]
+        },
+        {
+          "name": "THEME 2",
+          "lines": [
+            {"right": "5 4 5 B4 2 B4 5 6 5 4 5 B4 2 B4 5 6", "left": "D! - 1 - 3 - - - B1! - B4 - - - - -"},
+            {"right": "5 4 6 7 B7 8 7 5 4 - B5 - - 6 - 4", "left": "B4! - 2 - 1 - - - B2! - - - 2 - - -"},
+            {"right": "5 4 5 B4 2 B4 5 6 5 4 5 B4 2 B4 5 6", "left": "D! - 1 - 3 - - - B1! - B4 - - - - -"},
+            {"right": "5 4 6 7 B7 8 7 5 4 - B5 - - 6 - 4", "left": "B4! - 2 - 1 - - - B2! - - - 2 - - -"},
+            {"right": "5 B4 2 B4 - 6 5 - 5 B4 2 B4 - 6 - 4", "left": "D! - 1 - 3 - - - B1! - B4 - 2 - - -"},
+            {"right": "5 6 - 7 B7 8 - 7 6 5 4 B5 - - 6 4", "left": "B4! - 2 - 1 - - - B2! - B5 - 2 - - -"},
+            {"right": "5 B4 2 B4 - 6 - 5 - B4 - 2 B4 5 - 6", "left": "D! - 1 - 3 - - - B1! - B4 - 2 - - -"},
+            {"right": "5 - 5 6 7 B7 8 7 6 5 4 - B5 - B4 1", "left": "B4! - 2 - 1 - - - B2! - B5 - 2 - - -"}
+          ]
+        },
+        {
+          "name": "OUTRO",
+          "lines": [
+            {"right": "5 - 4 - 5 - 4 - 5 - 2 - 5 - B6 -", "left": "D! - 1 - 3 - - - B1! - B4 - 2 - - -"},
+            {"right": "1 - - - B6 - - - B5 - - - - - - -", "left": "B4! - 2 - 1 - - - B2! - B5 - 2 - - -"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "river-flows-in-you-fs",
+      "title": "River Flows in You (F#)",
+      "artistId": "yiruma",
+      "scaleId": "fs-river-17",
+      "level": "intermediate",
+      "bpm": 66,
+      "slotsPerBeat": 4,
+      "beatsPerBar": 4,
+      "slotCount": 80,
+      "sections": [
+        {
+          "name": "INTRO",
+          "lines": [
+            {"right": "8 - 7 - 8 - 7 - 8 - 5 - 8 - 4 -", "left": "D! - 3 - 6 - - - B2! - 1 - 5 - - -"},
+            {"right": "- - - - - - - - - - - - - - 1 3", "left": "B1! - B3 - 3 - - - B3! - 2 - 5 - - -"},
+            {"right": "8 - 7 - 8 - 7 - 8 - 5 - 8 - 4 -", "left": "D! - 3 - 6 - - - B2! - 1 - 5 - - -"},
+            {"right": "- - - - - - - - - - - - - - 1 3", "left": "B1! - B3 - 3 - - - B3! - 2 - 5 - - -"}
+          ]
+        },
+        {
+          "name": "VERSE",
+          "lines": [
+            {"right": "8 - 7 8 - 1 7 8 - 1 5 8 - 1 4 1", "left": "D! - 3 - 6 - - - B2! - 1 - 5 - - -"},
+            {"right": "3 - 4 5 - - 3 - 2 - - - B4 - 1 -", "left": "B1! - B3 - 3 - - - B3! - 2 - 5 - - -"},
+            {"right": "1 - 2 - - - 1 2 3 - - - - - 3 4", "left": "D! - 3 - 6 - - - B2! - 1 - 5 - - -"},
+            {"right": "5 - - - - 4 - 3 2 - - - B4 - 1 3", "left": "B1! - B3 - 3 - - - B3! - 2 - 5 - - -"},
+            {"right": "8 - 7 8 - 1 7 8 - 1 5 8 - 1 4 1", "left": "D! - 3 - 6 - - - B2! - 1 - 5 - - -"},
+            {"right": "3 - 4 - 5 - B5 - 9 - 5 - 9 - 8 7", "left": "B1! - B3 - 3 - - - B3! - 2 - 5 - - -"},
+            {"right": "8 - - - - - 1 2 3 - - - 1 - 3 4", "left": "D! - 3 - 6 - - - B2! - 1 - 5 - - -"},
+            {"right": "5 - - - 3 4 - 3 2 - - - 8 9 8 7", "left": "B1! - B3 - - - - - - B3! - 2 - 5 - - -"}
+          ]
+        },
+        {
+          "name": "THEME",
+          "lines": [
+            {"right": "8 7 8 1 5 1 8 9 8 7 8 1 5 1 8 9", "left": "D! - 3 - 6 - - - B2! - 1 - - - - -"},
+            {"right": "8 7 9 B5 B6 B7 B5 8 7 - 2 - - 9 - 7", "left": "B1! - B3 - 3 - - - B3! - - - 5 - - -"},
+            {"right": "8 7 8 1 5 1 8 9 8 7 8 1 5 1 8 9", "left": "D! - 3 - 6 - - - B2! - 1 - - - - -"},
+            {"right": "8 7 9 B5 B6 B7 B5 8 7 - 2 - - 9 - 7", "left": "B1! - B3 - 3 - - - B3! - - - 5 - - -"},
+            {"right": "8 1 5 1 - 9 8 - 8 1 5 1 - 9 - 7", "left": "D! - 3 - 6 - - - B2! - 1 - 5 - - -"},
+            {"right": "8 9 - B5 B6 B7 - B5 9 8 7 2 - - 9 7", "left": "B1! - B3 - 3 - - - B3! - 2 - 5 - - -"},
+            {"right": "8 1 5 1 - 9 - 8 - 1 - 5 1 8 - 9", "left": "D! - 3 - 6 - - - B2! - 1 - 5 - - -"},
+            {"right": "8 - 8 9 B5 B6 B7 B5 9 8 7 - 2 - 1 3", "left": "B1! - B3 - 3 - - - B3! - 2 - 5 - - -"}
+          ]
+        },
+        {
+          "name": "VERSE 2",
+          "lines": [
+            {"right": "8 - 7 8 - 1 7 8 - 1 5 8 - 1 4 1", "left": "D! - 3 - 6 - - - B2! - 1 - 5 - - -"},
+            {"right": "3 - 4 5 - - 3 - 2 - - - B4 - 1 -", "left": "B1! - B3 - 3 - - - B3! - 2 - 5 - - -"},
+            {"right": "1 - 2 - - - 1 2 3 - - - - - 3 4", "left": "D! - 3 - 6 - - - B2! - 1 - 5 - - -"},
+            {"right": "5 - - - - 4 - 3 2 - - - B4 - 1 3", "left": "B1! - B3 - 3 - - - B3! - 2 - 5 - - -"},
+            {"right": "8 - 7 8 - 1 7 8 - 1 5 8 - 1 4 1", "left": "D! - 3 - 6 - - - B2! - 1 - 5 - - -"},
+            {"right": "3 - 4 - 5 - B5 - 9 - 5 - 9 - 8 7", "left": "B1! - B3 - 3 - - - B3! - 2 - 5 - - -"},
+            {"right": "8 - - - - - 1 2 3 - - - 1 - 3 4", "left": "D! - 3 - 6 - - - B2! - 1 - 5 - - -"},
+            {"right": "5 - - - 3 4 - 3 2 - - - 8 9 8 7", "left": "B1! - B3 - - - - - - B3! - 2 - 5 - - -"}
+          ]
+        },
+        {
+          "name": "THEME 2",
+          "lines": [
+            {"right": "8 7 8 1 5 1 8 9 8 7 8 1 5 1 8 9", "left": "D! - 3 - 6 - - - B2! - 1 - - - - -"},
+            {"right": "8 7 9 B5 B6 B7 B5 8 7 - 2 - - 9 - 7", "left": "B1! - B3 - 3 - - - B3! - - - 5 - - -"},
+            {"right": "8 7 8 1 5 1 8 9 8 7 8 1 5 1 8 9", "left": "D! - 3 - 6 - - - B2! - 1 - - - - -"},
+            {"right": "8 7 9 B5 B6 B7 B5 8 7 - 2 - - 9 - 7", "left": "B1! - B3 - 3 - - - B3! - - - 5 - - -"},
+            {"right": "8 1 5 1 - 9 8 - 8 1 5 1 - 9 - 7", "left": "D! - 3 - 6 - - - B2! - 1 - 5 - - -"},
+            {"right": "8 9 - B5 B6 B7 - B5 9 8 7 2 - - 9 7", "left": "B1! - B3 - 3 - - - B3! - 2 - 5 - - -"},
+            {"right": "8 1 5 1 - 9 - 8 - 1 - 5 1 8 - 9", "left": "D! - 3 - 6 - - - B2! - 1 - 5 - - -"},
+            {"right": "8 - 8 9 B5 B6 B7 B5 9 8 7 - 2 - 1 3", "left": "B1! - B3 - 3 - - - B3! - 2 - 5 - - -"}
+          ]
+        },
+        {
+          "name": "OUTRO",
+          "lines": [
+            {"right": "8 - 7 - 8 - 7 - 8 - 5 - 8 - 4 -", "left": "D! - 3 - 6 - - - B2! - 1 - 5 - - -"},
+            {"right": "3 - - - 4 - - - 2 - - - - - - -", "left": "B1! - B3 - 3 - - - B3! - 2 - 5 - - -"}
+          ]
+        }
+      ]
+    }
+  ]
+}
