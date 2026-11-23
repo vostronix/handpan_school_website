@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>handpan.school —</title> Learn, Play, Tune</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body></body>
+    <!-- ===== NAVBAR ===== -->
+    <nav class="navbar">
+      <div class="container nav-inner">
+        <a href="#" class="nav-logo">
+          <img
+            src="assets/logo-white.svg"
+            alt="handpan.school Logo"
+            width="140"
+            height="60"
+            loading="eager"
+          />
+        </a>
+        <button
+          class="nav-toggle"
+          id="navToggle"
+          aria-label="Toggle menu"
+        >
+          <span></span><span></span><span></span>
+        </button>
+        <ul class="nav-links" id="navLinks">
+          <li><a href="#features">Features</a></li>
+          <li><a href="#notation">Notation</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#app" class="btn btn-sm">App starten</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <!-- ===== HERO ===== -->
+    <header class="hero" id="hero">
+      <div class="container hero-inner">
+        <div class="hero-content">
+
+          <h1 class="hero-title">
+            Learn.<br />
+            Play. <span class="highlight">Tune.</span>
+          </h1>
+          <p class="hero-subtitle">
+            Die All-in-One-App für Handpan-Spieler: animierte Tabs, Tablatur-Editor, virtueller Player, Rhythmus-Metronom und Strobe-Tuner — alles in einer App.
+          </p>
+          <div class="hero-actions">
+            <a href="#features" class="btn btn-primary">Features entdecken ↓</a>
+          </div>
+          <div class="hero-stats">
+
+
+          </div>
+        </div>
+        <div class="hero-visual">
+          <!-- Animated wave circles representing handpan -->
+          <div class="handpan-graphic">
+            <svg viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <!-- Outer circle -->
+              <circle cx="200" cy="200" r="190" stroke="#ADB1F3" stroke-width="2" opacity="0.3" />
+              <circle cx="200" cy="200" r="170" stroke="#ADB1F3" stroke-width="1.5" opacity="0.2" />
+              
+              <!-- Ding (center) -->
+              <circle cx="200" cy="200" r="50" fill="#432787" stroke="#FFB400" stroke-width="3" />
+              <text x="200" y="210" text-anchor="middle" fill="#FFFFFF" font-size="24" font-weight="bold">D</text>
+              
+              <!-- Tone fields around -->
+              <circle cx="200" cy="100" r="35" fill="#4B3060" stroke="#ADB1F3" stroke-width="1.5" class="tone-field anim-pulse-1" />
+              <circle cx="287" cy="135" r="35" fill="#4B3060" stroke="#ADB1F3" stroke-width="1.5" class="tone-field anim-pulse-2" />
+              <circle cx="315" cy="210" r="35" fill="#4B3060" stroke="#ADB1F3" stroke-width="1.5" class="tone-field anim-pulse-3" />
+              <circle cx="287" cy="285" r="35" fill="#4B3060" stroke="#ADB1F3" stroke-width="1.5" class="tone-field anim-pulse-4" />
+              <circle cx="200" cy="315" r="35" fill="#4B3060" stroke="#ADB1F3" stroke-width="1.5" class="tone-field anim-pulse-5" />
+              <circle cx="113" cy="285" r="35" fill="#4B3060" stroke="#ADB1F3" stroke-width="1.5" class="tone-field anim-pulse-6" />
+              <circle cx="85" cy="210" r="35" fill="#4B3060" stroke="#ADB1F3" stroke-width="1.5" class="tone-field anim-pulse-7" />
+              <circle cx="113" cy="135" r="35" fill="#4B3060" stroke="#ADB1F3" stroke-width="1.5" class="tone-field anim-pulse-8" />
+              
+              <!-- Small connecting dots -->
+              <circle cx="240" cy="70" r="8" fill="#FFB400" opacity="0.6" class="anim-dot" />
+              <circle cx="330" cy="170" r="8" fill="#974CFF" opacity="0.6" class="anim-dot" />
+              <circle cx="350" cy="250" r="8" fill="#3DBFE2" opacity="0.6" class="anim-dot" />
+              <circle cx="310" cy="340" r="8" fill="#3FCC86" opacity="0.6" class="anim-dot" />
+              <circle cx="220" cy="370" r="8" fill="#FFB400" opacity="0.6" class="anim-dot" />
+              <circle cx="130" cy="340" r="8" fill="#974CFF" opacity="0.6" class="anim-dot" />
+              <circle cx="90" cy="250" r="8" fill="#3DBFE2" opacity="0.6" class="anim-dot" />
+              <circle cx="110" cy="170" r="8" fill="#3FCC86" opacity="0.6" class="anim-dot" />
+            </svg>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- ===== FEATURES ===== -->
+    <section class="features" id="features">
+      <div class="container">
+        <div class="section-header">
+          <span class="section-tag">Features</span>
+          <h2></h2>Alles was du brauchst.</h2>
+          <p>Fünf leistungsstarke Tools für Handpan-Enthusiasten.</p>
+        </div>
+
+        <div class="features-grid">
+          <!-- Feature 1: Play-Along Tab -->
+          <article class="feature-card feature-highlight" data-feature></article>
+            <div class="feature-icon">
+              <svg viewBox="0 0 64 64" fill="none">
+                <rect x="8" y="12" width="6" height="40" rx="2" fill="#FFB400" class="bar bar-1" />
+                <rect x="20" y="8" width="6" height="48" rx="2" fill="#974CFF" class="bar bar-2" />
+                <rect x="32" y="20" width="6" height="24" rx="2" fill="#3DBFE2" class="bar bar-3" />
+                <rect x="44" y="16" width="6" height="32" rx="2" fill="#3FCC86" class="bar bar-4" />
+              </svg>
+            </div>
+            <h3></h3>Animated Play-Along Tab</h3>
+            <p class="feature-desc">
+              Schau dir die Noten an, während sie fallen — wie bei Guitar Hero, aber für Handpan. Mit animiertem Handpan-Grafik unten und farbcodierten Notationen.
+            </p>
+            <ul class="feature-list">
+              <li>Fallende-Noten-Visualisierung</li>
+              <li></li>Handpan-Grafik mit Ding & Tonefields</li>
+              <li>Farbcodi</li>erte Effekte (Ghost, Harmonics…)</li>
+              <li>Built-in Songs zum Mitspielen</li>
+            </ul>
+            <a href="#notation" class="feature-link">Mehr erfahren →</a>
+          </article>
+
+          <!-- Feature 2: Notepan -->
+          <article class="feature-card" data-feature></article>
+            <div class="feature-icon icon-blue">
+              <svg viewBox="0 0 64 64" fill="none">
+                <rect x="10" y="8" width="44" height="48" rx="4" stroke="#3DBFE2" stroke-width="3" />
+                <line x1="10" y1="20" x2="54" y2="20" stroke="#3DBFE2" stroke-width="2" />
+                <line x1="24" y1="20" x2="24" y2="56" stroke="#3DBFE2" stroke-width="2" opacity="0.5" />
+                <circle cx="17" cy="32" r="3" fill="#3DBFE2" />
+                <circle cx="17" cy="44" r="3" fill="#3DBFE2" />
+                <circle cx="37" cy="38" r="3" fill="#3DBFE2" opacity="0.5" />
+              </svg>
+            </div>
+            <h3></h3>Notepan — Tablatur-Editor</h3>
+            <p class="feature-desc">
+              Erstelle eigene Tablaturen mit einem intelligenten Grid-System. Schreib deine Songs mit Noten, Annotationen, Tempoänderungen und Abschnitten.
+            </p>
+            <ul class="feature-list">
+              <li></li>Grid-basierter Editor (Zellen pro Hand)</li>
+              <li>Tastatur-Shortcuts & Touch-Pad support</li>
+              <li></li>Noten, Ghost Notes, Effekte & Percussion</li>
+              <li></li>Undo/Redo, Copy/Paste, Sektionen</li>
+            </ul>
+          </article>
+
+          <!-- Feature 3: Handpan Player -->
+          <article class="feature-card" data-feature></article>
+            <div class="feature-icon icon-green">
+              <svg viewBox="0 0 64 64" fill="none">
+                <circle cx="32" cy="32" r="22" stroke="#3FCC86" stroke-width="3" />
+                <circle cx="32" cy="32" r="10" stroke="#3FCC86" stroke-width="2" opacity="0.5" />
+                <path d="M28 24 L42 32 L28 40Z" fill="#3FCC86" />
+              </svg>
+            </div>
+            <h3></h3>Handpan Player & Scale Builder</h3>
+            <p class="feature-desc">
+              Spiele auf einem virtuellen Handpan — wahlweise mit vorgefertigten Skalen oder baue deine eigene Custom-Scale zusammen.
+            </p>
+            <ul class="feature-list">
+              <li>Preset Scales (D Kurd, E Major…)</li>
+              <li></li>Custom Scale Builder (Note für Note)</li>
+              <li>Virtuelle Handpan-Interaktion</li>
+              <li></li>Teilen via Share-Link</li>
+            </ul>
+          </article>
+
+          <!-- Feature 4: Metronome -->
+          <article class="feature-card" data-feature></article>
+            <div class="feature-icon icon-purple">
+              <svg viewBox="0 0 64 64" fill="none">
+                <polygon points="32,6 38,24 56,24 42,36 48,54 32,42 16,54 22,36 8,24 26,24" stroke="#974CFF" stroke-width="3" fill="none" />
+                <circle cx="32" cy="30" r="6" fill="#974CFF" opacity="0.5" />
+              </svg>
+            </div>
+            <h3>Rhythmus-Metronom</h3>
+            <p class="feature-desc">
+              Übe Rhythmen mit dem "Rhythmic Alphabet" — Inspired by Benny Greb. Jedes Buchstaben-Symbol steht für ein Rhythmus-Muster über dem Pulse.
+            </p>
+            <ul class="feature-list">
+              <li></li>30–240 BPM, 4/4 · 3/4 · 6/8</li>
+              <li>Rhythmisches Alphabet (A–Z)</li>
+              <li></li>Accent / Ghost / Normal Dynamics</li>
+              <li>Buchstaben-Picker zum Komponieren</li>
+            </ul>
+          </article>
+
+          <!-- Feature 5: Strobe Tuner -->
+          <article class="feature-card feature-highlight" data-feature></article>
+            <div class="feature-icon icon-orange">
+              <svg viewBox="0 0 64 64" fill="none">
+                <rect x="8" y="16" width="3" height="32" rx="1.5" fill="#FFB400" />
+                <rect x="16" y="12" width="3" height="40" rx="1.5" fill="#FFB400" opacity="0.8" />
+                <rect x="24" y="20" width="3" height="24" rx="1.5" fill="#FFB400" opacity="0.6" />
+                <rect x="32" y="8" width="3" height="48" rx="1.5" fill="#FFB400" />
+                <rect x="40" y="18" width="3" height="28" rx="1.5" fill="#FFB400" opacity="0.7" />
+                <rect x="48" y="14" width="3" height="36" rx="1.5" fill="#FFB400" opacity="0.9" />
+                <rect x="56" y="22" width="3" height="20" rx="1.5" fill="#FFB400" opacity="0.5" />
+              </svg>
+            </div>
+            <h3></h3>Strobe Tuner</h3>
+            <p class="feature-desc">
+              Stimme dein Handpan auf ±0.1 Cent genau — wie ein professioneller Stroboskop-Tuner. Analysiere Grundton, Oktave & Quinte in Echtzeit über das Mikrofon.
+            </p>
+            <ul class="feature-list">
+              <li>Echtzeit-Strobe-Bänder (Fundamental, Oktave, 12er)</li>
+              <li>Spektrogramm & Oberton-Analyse</li>
+              <li></li>Stimm-Log mit Trend-Pfeilen</li>
+              <li></li>Scale Mode für ganze Handpans</li>
+            </ul>
+            <a href="#app" class="feature-link">Jetzt ausprobieren →</a>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== NOTATION SECTION ===== -->
+    <section class="notation" id="notation">
+      <div class="container notation-inner">
+        <div class="notation-content">
+          <span class="section-tag">Notation</span>
+          <h2></h2>Ein System. Ein Alphabet.</h2>
+          <p></p>
+            Unsere Handpan-Notation ist speziell für das Instrument entwickelt. 
+            Zahlen für Tonefields, Buchstaben für Percussion, Modifier für Effekte — alles in einem intuitiven System.
+          </p>
+          
+          <div class="notation-grid">
+            <div class="notation-item">
+              <span class="notation-key">0–9</span>
+              <span class="notation-value">Tonefields (Notes)</span>
+            </div>
+            <div class="notation-item">
+              <span class="notation-key">D</span>
+              <span class="notation-value">Ding (Center Note)</span>
+            </div>
+            <div class="notation-item">
+              <span class="notation-key">P T F S K</span>
+              <span class="notation-value">Percussion (Palm Mute, Tak, Fist, Slap, Knock)</span>
+            </div>
+            <div class="notation-item">
+              <span class="notation-key">• O H M R G</span>
+              <span class="notation-value">Effects (Ghost, Harmonics, Roll, Grace Note)</span>
+            </div>
+          </div>
+        </div>
+        <div class="notation-visual">
+          <div class="alphabet-wheel">
+            <!-- Alphabet visualization -->
+            <svg viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <circle cx="160" cy="160" r="140" stroke="#ADB1F3" stroke-width="1" opacity="0.3" />
+              <circle cx="160" cy="160" r="100" stroke="#ADB1F3" stroke-width="1" opacity="0.2" />
+              <circle cx="160" cy="160" r="60" stroke="#FFB400" stroke-width="1.5" opacity="0.3" />
+              
+              <!-- A-Z letters around -->
+              <text x="160" y="42" text-anchor="middle" fill="#FFFFFF" font-size="16" font-weight="bold">A</text>
+              <text x="222" y="58" text-anchor="middle" fill="#ADB1F3" font-size="14">B</text>
+              <text x="262" y="98" text-anchor="middle" fill="#ADB1F3" font-size="14">C</text>
+              <text x="278" y="150" text-anchor="middle" fill="#ADB1F3" font-size="14">D</text>
+              <text x="262" y="202" text-anchor="middle" fill="#ADB1F3" font-size="14">E</text>
+              <text x="222" y="252" text-anchor="middle" fill="#ADB1F3" font-size="14">F</text>
+              <text x="160" y="282" text-anchor="middle" fill="#ADB1F3" font-size="14">G</text>
+              <text x="98" y="252" text-anchor="middle" fill="#ADB1F3" font-size="14">H</text>
+              <text x="58" y="202" text-anchor="middle" fill="#ADB1F3" font-size="14">I</text>
+              <text x="42" y="150" text-anchor="middle" fill="#ADB1F3" font-size="14">J</text>
+              <text x="58" y="98" text-anchor="middle" fill="#ADB1F3" font-size="14">K</text>
+              <text x="98" y="58" text-anchor="middle" fill="#ADB1F3" font-size="14">L</text>
+              <text x="160" y="28" text-anchor="middle" fill="#FFB400" font-size="12" font-weight="600">A–Z + –</text>
+            </svg>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== ABOUT SECTION ===== -->
+    <section class="about" id="about">
+      <div class="container">
+        <div class="about-header">
+          <span class="section-tag">Über das Projekt</span>
+          <h2>Für die Handpan-Community.</h2>
+
+        </div>
+
+
+
+
+      </div>
+    </section>
+
+    <!-- ===== CTA SECTION ===== -->
+    <section class="cta" id="app">
+      <div class="container cta-inner">
+        <h2>Bereit, dein Handpan-Level zu steigern?</h2>
+
+        <div class="cta-actions">
+
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== FOOTER ===== -->
+    <footer class="footer">
+      <div class="container footer-inner">
+        <div class="footer-left">
+          <img
+            src="assets/logo-white.svg"
+            alt="handpan.school"
+            width="120"
+            height="48"
+            loading="lazy"
+          />
+
+        </div>
+        <div class="footer-right">
+          <a href="#features">Features</a>
+          <a href="#notation">Notation</a>
+          <a href="#about">About</a>
+        </div>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
