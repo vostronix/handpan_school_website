@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Mudra",
+    "scales": [
+      {
+        "id": "d-kurd-9",
+        "name": "D Kurd 9",
+        "notation": "D3/ A3 Bb3 C4 D4 E4 F4 G4 A4",
+        "defaultSongId": "first-steps"
+      },
+      {
+        "id": "d-kurd-19",
+        "name": "D Kurd 19",
+        "notation": "(Bb2) (C3) D3/ (F3) (G3) A3 Bb3 C4 D4 E4 F4 G4 A4 C5 D5 E5 (F5) (G5) (A5)",
+        "defaultSongId": "ode-to-joy",
+        "bottomAngles": {
+          "Bb2": 135,
+          "C3": -90,
+          "F3": 90,
+          "G3": -135,
+          "F5": -45,
+          "G5": 45,
+          "A5": 0
+        }
+      },
+      {
+        "id": "c-golden-gate-9",
+        "name": "C Golden Gate 9",
+        "notation": "C3/ E3 G3 B3 C4 D4 F#4 G4 B4",
+        "defaultSongId": "golden-hour"
+      },
+      {
+        "id": "f2-low-pygmy-17",
+        "name": "F2 Low Pygmy 17",
+        "notation": "F2/ (C3) (D#3) F3 G3 G#3 (Bb3) C4 (C#4) D#4 F4 G4 G#4 (C5) (C#5) (D#5) (F5)",
+        "defaultSongId": "deep-pygmy"
+      },
+      {
+        "id": "cs-annaziska-9",
+        "name": "C# Annaziska 8+1",
+        "notation": "C#3/ G#3 A3 B3 C#4 D#4 E4 F#4 G#4",
+        "defaultSongId": "new-york"
+      },
+      {
+        "id": "e-amara-9",
+        "name": "E Amara 9",
+        "notation": "E3/ B3 D4 E4 F#4 G4 A4 B4 D5"
+      },
+      {
+        "id": "e-amara-20",
+        "name": "E Amara 20",
+        "notation": "(C3) (D3) E3/ (F#3) (G3) (A3) B3 (C4) D4 E4 F#4 G4 A4 B4 (C5) D5 E5 F#5 G5 A5",
+        "defaultSongId": "still-water",
+        "oddRingNote": "bottom",
+        "bottomAngles": {
+          "C3": -90,
+          "D3": 135,
+          "F#3": -135,
+          "G3": -45,
+          "A3": 45,
+          "C4": 90,
+          "C5": 0
+        }
+      }
+    ]
+  },
+  {
+    "name": "Handpan School",
+    "scales": [
+      {
+        "id": "fs-river-17",
+        "name": "F# River 17",
+        "notation": "(A2) (D3) (E3) F#3/ (G#3) A3 B3 C#4 D4 E4 F#4 G#4 A4 B4 (C#5) (D5) (E5)",
+        "defaultSongId": "river-flows-in-you-fs",
+        "bottomAngles": {
+          "A2": 135,
+          "D3": -90,
+          "E3": 90,
+          "G#3": -135,
+          "C#5": -45,
+          "D5": 45,
+          "E5": 0
+        }
+      }
+    ]
+  }
+]
