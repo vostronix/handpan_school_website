@@ -1,6 +1,7 @@
 {
   "artists": {
     "handpan-school": "Handpan School",
+    "john-denver": "John Denver",
     "ludwig-van-beethoven": "Ludwig van Beethoven",
     "mykola-leontovych": "Mykola Leontovych",
     "sam-maher": "Sam Maher",
@@ -644,6 +645,68 @@
           "lines": [
             {"right": "8 - 7 - 8 - 7 - 8 - 5 - 8 - 4 -", "left": "D! - 3 - 6 - - - B2! - 1 - 5 - - -"},
             {"right": "3 - - - 4 - - - 2 - - - - - - -", "left": "B1! - B3 - 3 - - - B3! - 2 - 5 - - -"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "country-roads",
+      "title": "Take Me Home, Country Roads",
+      "artistId": "john-denver",
+      "scaleId": "e-amara-20",
+      "level": "intermediate",
+      "bpm": 80,
+      "slotsPerBeat": 2,
+      "beatsPerBar": 4,
+      "sections": [
+        {
+          "name": "INTRO",
+          "lines": [
+            {"right": "- - 5 - 7 - 5 - - - 5 - 7 - 5 -", "left": "B4! - - - B2 - - - B4! - - - B2 - - -"},
+            {"right": "- - 5 - 7 - 5 - - - 5 - 7 - 5 -", "left": "B4! - - - B2 - - - B4! - - - B2 - - -"}
+          ]
+        },
+        {
+          "name": "VERSE",
+          "lines": [
+            {"right": "2 2 - 3 - 2 - - 3 2 3 5 - - - -", "left": "B4! - - - 1 - - - D! - - - 1 - - -"},
+            {"right": "6 6 - 7 - 6 - - 3 3 3 2 3 - 5 -", "left": "B2! - - - B5 - - - B1! - - - B4! - - -"},
+            {"right": "2 2 3 - 2 - - - 3 5 5 7 - 7 - -", "left": "B4! - - - 1 - - - D! - - - 1 - - -"},
+            {"right": "6 6 6 6 7 - 6 - 3 5 5 6 5 - 5 6", "left": "B2! - - - B5 - - - B1! - - - B4! - - -"}
+          ]
+        },
+        {
+          "name": "CHORUS",
+          "lines": [
+            {"right": "7 - - - - - 7 5 6 - - - - - 7 6", "left": "B4! - - - 1 - - - B2! - - - B5 - - -"},
+            {"right": "5 - - - - - 7 8 9 - - - - - - -", "left": "D! - - - 1 - - - B1! - - - B4 - - -"},
+            {"right": "9 9 8 7 - - 7 5 6 - 7 - - - 7 5", "left": "B4! - - - 1 - - - B2! - - - B5 - - -"},
+            {"right": "5 - - - - - 5 6 5 - - - - - - -", "left": "B1! - - - B4 - - - B4! - - - 1 - - -"}
+          ]
+        },
+        {
+          "name": "VERSE 2",
+          "lines": [
+            {"right": "2 2 - 3 - 2 - - 3 2 3 5 - - - -", "left": "B4! - - - 1 - - - D! - - - 1 - - -"},
+            {"right": "6 6 - 7 - 6 - - 3 3 3 2 3 - 5 -", "left": "B2! - - - B5 - - - B1! - - - B4! - - -"},
+            {"right": "2 2 3 - 2 - - - 3 5 5 7 - 7 - -", "left": "B4! - - - 1 - - - D! - - - 1 - - -"},
+            {"right": "6 6 6 6 7 - 6 - 3 5 5 6 5 - 5 6", "left": "B2! - - - B5 - - - B1! - - - B4! - - -"}
+          ]
+        },
+        {
+          "name": "CHORUS 2",
+          "lines": [
+            {"right": "7 - - - - - 7 5 6 - - - - - 7 6", "left": "B4! - - - 1 - - - B2! - - - B5 - - -"},
+            {"right": "5 - - - - - 7 8 9 - - - - - - -", "left": "D! - - - 1 - - - B1! - - - B4 - - -"},
+            {"right": "9 9 8 7 - - 7 5 6 - 7 - - - 7 5", "left": "B4! - - - 1 - - - B2! - - - B5 - - -"},
+            {"right": "5 - - - - - 5 6 5 - - - - - - -", "left": "B1! - - - B4 - - - B4! - - - 1 - - -"}
+          ]
+        },
+        {
+          "name": "OUTRO",
+          "lines": [
+            {"right": "7 5 5 - - - 5 6 5 - - - - - - -", "left": "B2! - - - B5 - - - B4! - - - 1 - - -"},
+            {"right": "7 5 5 - - - 5 6 5! - - - - - - -", "left": "B2! - - - B5 - - - B4! - - - D - - -"}
           ]
         }
       ]
