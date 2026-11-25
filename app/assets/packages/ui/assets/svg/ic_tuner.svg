@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-label="Tuner">
+  <!-- tuning fork: two prongs joined at the bottom, and its stem -->
+  <path d="M8.5 2.5v7.5a3.5 3.5 0 0 0 7 0V2.5"/>
+  <path d="M12 13.5v8"/>
+  <!-- the sound it rings -->
+  <path d="M4.5 5.5a6 6 0 0 0 0 5"/>
+  <path d="M19.5 5.5a6 6 0 0 1 0 5"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-label="Settings">
+  <path d="M9.20 4.93 L9.36 2.35 L14.64 2.35 L14.80 4.93 L15.02 5.03 L16.95 3.31 L20.69 7.05 L18.97 8.98 L19.07 9.20 L21.65 9.36 L21.65 14.64 L19.07 14.80 L18.97 15.02 L20.69 16.95 L16.95 20.69 L15.02 18.97 L14.80 19.07 L14.64 21.65 L9.36 21.65 L9.20 19.07 L8.98 18.97 L7.05 20.69 L3.31 16.95 L5.03 15.02 L4.93 14.80 L2.35 14.64 L2.35 9.36 L4.93 9.20 L5.03 8.98 L3.31 7.05 L7.05 3.31 L8.98 5.03 Z"/>
+  <circle cx="12" cy="12" r="3.6"/>
+  <circle cx="12" cy="12" r="1.1" fill="currentColor" stroke="none"/>
+</svg>

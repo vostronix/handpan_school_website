@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-label="Reverb off">
+  <!-- the struck note -->
+  <circle cx="5" cy="12" r="2.2" fill="currentColor" stroke="none"/>
+  <!-- only the dry sound: one short wave -->
+  <path d="M9.4 8.4a5 5 0 0 1 0 7.2"/>
+  <!-- no room -->
+  <path d="M13 4l8 16"/>
+</svg>

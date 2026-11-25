@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-label="Songs">
+  <!-- two beamed notes -->
+  <g fill="currentColor" stroke="none">
+    <ellipse cx="6.4" cy="18.4" rx="2.4" ry="1.75" transform="rotate(-22 6.4 18.4)"/>
+    <ellipse cx="17" cy="16.2" rx="2.4" ry="1.75" transform="rotate(-22 17 16.2)"/>
+  </g>
+  <!-- stems -->
+  <path d="M8.5 17.6V6.6M19.1 15.4V4.4"/>
+  <!-- beams -->
+  <path d="M8.5 6.6L19.1 4.4" stroke-width="2.3"/>
+  <path d="M8.5 10L19.1 7.8"/>
+</svg>

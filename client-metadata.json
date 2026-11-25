@@ -6,7 +6,10 @@
   "dpop_bound_access_tokens": true,
   "grant_types": ["authorization_code", "refresh_token"],
   "response_types": ["code"],
-  "redirect_uris": ["io.github.vostronix:/callback"],
+  "redirect_uris": [
+    "io.github.vostronix:/callback",
+    "https://vostronix.github.io/handpan_school_website/app/"
+  ],
   "scope": "atproto transition:generic",
   "token_endpoint_auth_method": "none"
 }
