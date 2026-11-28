@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-label="Sound">
+  <!-- the sound's shape: three faders (tap, sustain, overtones) -->
+  <path d="M6 3.5v5M6 13v7.5"/>
+  <circle cx="6" cy="10.75" r="2.25"/>
+  <path d="M12 3.5v9.25M12 17.25v3.25"/>
+  <circle cx="12" cy="15" r="2.25"/>
+  <path d="M18 3.5v1.75M18 9.75v10.75"/>
+  <circle cx="18" cy="7.5" r="2.25"/>
+</svg>
